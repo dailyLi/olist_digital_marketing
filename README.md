@@ -1,8 +1,8 @@
 # Olist Digital Marketing
 
 ## Objective
-- To create visual reports on order number, sales, customer acquisition
-- To make customer segmentation based on purchase behavior (RFM model)
+- To create visual reports on order number, sales, customer acquisition - see [EDA.ipynb](https://github.com/dailyLi/olist_digital_marketing/blob/main/EDA.ipynb)
+- To make customer segmentation based on purchase behavior (RFM model) - see [Segmentation.ipynb](https://github.com/dailyLi/olist_digital_marketing/blob/main/Segmentation.ipynb)
 
 ## Background
 The dataset was provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on Olist website: www.olist.com
