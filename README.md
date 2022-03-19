@@ -1,4 +1,4 @@
-# Olist Digital Marketing
+# Olist Digital Marketing Analysis
 
 ## Objective
 - To create visual reports on order number, sales, customer acquisition - see [EDA.ipynb](https://github.com/dailyLi/olist_digital_marketing/blob/main/EDA.ipynb)
