@@ -1,5 +1,7 @@
 # Olist Digital Marketing Analysis
 
+Dashboard: https://dailyli.github.io/olist_digital_marketing/
+
 ## Objective
 - To create visual reports on order number, sales, customer acquisition - see [EDA.ipynb](https://github.com/dailyLi/olist_digital_marketing/blob/main/EDA.ipynb)
 - To make customer segmentation based on purchase behavior (RFM model) - see [Segmentation.ipynb](https://github.com/dailyLi/olist_digital_marketing/blob/main/Segmentation.ipynb)
